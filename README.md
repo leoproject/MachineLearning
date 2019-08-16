@@ -1,2 +1,2 @@
 # MachineLearning
-Repositório de notebooks das aulas do mestrado como aluno especial do PROCC
+Repositório de notebooks com algoritmos de Machine Learning!
