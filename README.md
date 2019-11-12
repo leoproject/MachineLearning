@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 Repositório de notebooks com algoritmos de Machine Learning! Tentarei colocar algoritmos em R e Python.
 A ideia é aplicar algoritmos de forma útil com exemplos simples de dia a dia, mas que seja ideias úteis essa aplicação.
 
