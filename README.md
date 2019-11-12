@@ -11,7 +11,7 @@ Não pretendo criar rivalidade em R e Python cada um tem seu merito e vantagens 
 A ideia é aprender e quando possível fazer pequenas aplicações, colocarei os algoritmos aqui e quando possível as referências de cursos, livros e artigos os quais utilizei para implementá-los! Segue uma lista de algoritmos já implementados em cada linguagem.
 
 
-Python   | R
+**Python**   | **R**
 ---------| ------
-**KNN**  k-nearest neighbors      | 
+KNN  | 
 
