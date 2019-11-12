@@ -13,5 +13,5 @@ A ideia é aprender e quando possível fazer pequenas aplicações, colocarei os
 
 Python   | R
 ---------| ------
-KNN      | 
+**KNN**  k-nearest neighbors      | 
 
